@@ -1,0 +1,2 @@
+# finassy
+open file
